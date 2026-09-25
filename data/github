@@ -32,3 +32,7 @@ domain:ghe.com
 domain:github.career
 domain:githubsupport.com
 regexp:^productionresults(sa([0-9]|1[0-9])?)\.blob\.core\.windows\.net$
+full:github-production-repository-file-5c1aeb.s3.amazonaws.com
+full:github-production-repository-image-32fea6.s3.amazonaws.com
+full:github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+full:github-production-user-asset-6210df.s3.amazonaws.com
