@@ -20,6 +20,8 @@ domain:tilda.cc
 domain:kinescope.io
 domain:kinescopecdn.net
 domain:redheadsound.studio
+domain:otzovik.com
+domain:tsargrad.tv
 
 # VTB
 
@@ -28,6 +30,8 @@ domain:vtb-direct.com
 
 # Sberbank / Sber
 
+domain:sberbank.ru
+domain:sber.ru
 domain:sber.world
 domain:sber.ws
 domain:sbercoin.com
@@ -104,8 +108,7 @@ domain:bank131.com
 domain:asia-pay.ru
 # РНКО Люминис (АО) (Рег. № 3551)
 domain:rncoluminis.ru
-domain:sberbank.ru
-domain:sber.ru
+# Прочее
 domain:tinkoff.ru
 domain:tbank.ru
 domain:raiffeisen.ru
@@ -118,5 +121,12 @@ domain:akbars.ru
 domain:rsb.ru
 domain:mkb.ru
 domain:uralsib.ru
-domain:otzovik.com
-domain:tsargrad.tv
+domain:autowp.ru
+domain:appstorrent.ru
+domain:lava.ru
+domain:avto.ru
+domain:zr.ru
+domain:aliexpress.ru
+domain:rdp-onedash.ru
+domain:aviasales.ru
+domain:usmall.ru
