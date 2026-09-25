@@ -27,6 +27,6 @@ domain:unrealengine.com
 domain:unrealtournament.com
 domain:egdownload.fastly-edge.com
 domain:fortnite-vod.akamaized.net
-regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$ @cn
+regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 regexp:^epicgames-download\d\.akamaized\.net$
-regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$ @cn
+regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$
