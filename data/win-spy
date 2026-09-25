@@ -375,3 +375,8 @@ domain:telecommandsvc.microsoft.com
 domain:watsonc.events.data.microsoft.com
 domain:eu-watsonc.events.data.microsoft.com
 domain:oca.microsoft.com
+domain:a.ads2.msads.net
+domain:b.ads2.msads.net
+domain:cs1.wpc.v0cdn.net
+domain:insideruser.trafficmanager.net
+domain:ztd.dds.microsoft.com
