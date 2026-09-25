@@ -253,7 +253,7 @@ jobs:
           git checkout -b release
           git add -A
           git commit -m "Release ${{ env.DAILY_TAG }}"
-          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}"
           git push -f -u origin release
           cd .. || exit 1
           git config --local user.name "hydraponique"
@@ -310,7 +310,7 @@ jobs:
           git checkout -b test-release
           git add -A
           git commit -m "Test Release $(date -u +%Y%m%d%H%M)"
-          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}"
           git push -f -u origin test-release
           cd .. || exit 1
           git config --local user.name "hydraponique"
