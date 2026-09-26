@@ -8,6 +8,7 @@
 
 Использование:
   python deduplicate.py ../data/category-ru
+  python deduplicate.py ../data/category-ru --dry-run   # только показать кандидатов, файл не менять
 """
 from __future__ import annotations
 
@@ -338,6 +339,8 @@ def main() -> None:
     ap = argparse.ArgumentParser(description="Deduplicate geosite domains covered by geoip:direct/geoip:whitelist")
     ap.add_argument("geosite_file", help="Geosite data file (e.g. data/category-ru, data/whitelist)")
     ap.add_argument("--workers", type=int, default=WORKERS, help=f"Parallel workers (default: {WORKERS})")
+    ap.add_argument("--dry-run", action="store_true",
+                    help="Only show removal candidates and write them to <file>.remove; do not modify the geosite file")
     args = ap.parse_args()
 
     # Шаг 1. Скачиваем и разбираем список IP-диапазонов (direct.txt/whitelist.txt)
@@ -402,12 +405,19 @@ def main() -> None:
             print(f"  L{idx+1}: {lines[idx].rstrip()}")
 
     # Шаг 5. Записываем результат (без удалённых строк)
-    with open(args.geosite_file, "w", encoding="utf-8") as f:
-        for i, line in enumerate(lines):
-            if i not in to_remove:
-                f.write(line)
+    if args.dry_run:
+        candidates = args.geosite_file + ".remove"
+        with open(candidates, "w", encoding="utf-8") as f:
+            for idx in sorted(to_remove):
+                f.write(lines[idx])
+        print(f"\nDRY RUN: файл не изменён. {len(to_remove)} кандидатов на удаление → {candidates}")
+    else:
+        with open(args.geosite_file, "w", encoding="utf-8") as f:
+            for i, line in enumerate(lines):
+                if i not in to_remove:
+                    f.write(line)
 
-    print(f"\nWritten → {args.geosite_file}")
+        print(f"\nWritten → {args.geosite_file}")
 
 
 if __name__ == "__main__":
