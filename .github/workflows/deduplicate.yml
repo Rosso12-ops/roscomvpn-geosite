@@ -1,0 +1,73 @@
+name: Deduplicate (dry-run)
+
+on:
+  workflow_dispatch:
+    inputs:
+      category:
+        description: "Категория из data/ для проверки"
+        required: true
+        type: choice
+        options:
+          - apple
+          - category-ads
+          - category-geoblock-ru
+          - category-ru
+          - epicgames
+          - escapefromtarkov
+          - faceit
+          - github
+          - google-deepmind
+          - google-play
+          - microsoft
+          - origin
+          - pinterest
+          - private
+          - riot
+          - steam
+          - telegram
+          - torrent
+          - twitch
+          - twitch-ads
+          - whitelist
+          - win-spy
+          - youtube
+      workers:
+        description: "Параллельных воркеров"
+        required: false
+        default: "8"
+
+permissions:
+  contents: read
+
+jobs:
+  dry-run:
+    name: Dry-run deduplicate
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout codebase
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run deduplicate (dry-run)
+        run: |
+          set -euo pipefail
+          category="${{ inputs.category }}"
+          if [ ! -f "data/$category" ]; then
+            echo "::error::data/$category not found"
+            exit 1
+          fi
+          python3 buildtools/deduplicate.py "data/$category" --dry-run --workers "${{ inputs.workers }}"
+
+      - name: Upload removal candidates
+        uses: actions/upload-artifact@v4
+        with:
+          name: deduplicate-${{ inputs.category }}-candidates
+          path: data/${{ inputs.category }}.remove
+          if-no-files-found: warn
