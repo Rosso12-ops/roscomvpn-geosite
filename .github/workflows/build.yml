@@ -10,6 +10,8 @@ on:
       - ".gitignore"
       - "LICENSE"
       - "release/**"
+      - "buildtools/**"
+      - ".github/workflows/deduplicate.yml"
 
 permissions:
   contents: write
@@ -79,7 +81,8 @@ jobs:
         run: |
           set -euo pipefail
           ARCH=$(dpkg --print-architecture)
-          LATEST_URL=$(${{ env.CURL }} https://api.github.com/repos/MetaCubeX/mihomo/releases/latest \
+          LATEST_URL=$(${{ env.CURL }} https://
+api.github.com/repos/MetaCubeX/mihomo/releases/latest \
             | grep -oP '"browser_download_url":\s*"\K[^"]*mihomo-linux-'"$ARCH"'-[^"]*\.deb(?=")' \
             | head -n1)
           echo "Downloading: $LATEST_URL"
@@ -144,7 +147,8 @@ jobs:
                   sub(/^\./, "", s)
                   if (s != "") {
                     s = "+." s
-                    sub(/\.$/, ".*", s)
+                    sub(/\.$/,
+ ".*", s)
                     print s
                   }
                   next
@@ -202,7 +206,8 @@ jobs:
                 if (t ~ /^full:/)   { v=strip_tail(substr(t,6)); sub(/^\./,"",v); if(v!="") print "domain\t"  v; next }
                 if (t ~ /^domain:/) { v=strip_tail(substr(t,8)); sub(/^\./,"",v); if(v!="") print "suffix\t"  v; next }
                 if (t ~ /^keyword:/){ v=strip_tail(substr(t,9));                   if(v!="") print "keyword\t" v; next }
-                if (t ~ /^regexp:/) { v=strip_tail(substr(t,8));                   if(v!="") print "regex\t"   v; next }
+                if (t ~ /^regexp:/) { v=strip_tail(substr(t,8));                  
+ if(v!="") print "regex\t"   v; next }
 
                 v=t; sub(/^\./,"",v); if(v!="") print "keyword\t" v
               }
@@ -248,7 +253,8 @@ jobs:
         run: |
           cd release || exit 1
           git init
-          git config --local user.name "hydraponique"
+          git config --local user.name "hydrap
+onique"
           git config --local user.email "hydraponique@users.noreply.github.com"
           git checkout -b release
           git add -A
@@ -294,7 +300,8 @@ jobs:
         run: |
           set -euo pipefail
           rm -rf release
-          mkdir -p release/mihomo release/sing-box
+          mkdi
+r -p release/mihomo release/sing-box
           cp ./geosite.dat release/
           cp -a /tmp/mihomo/rulesets/.   release/mihomo/
           cp -a /tmp/sing-box/rulesets/. release/sing-box/
