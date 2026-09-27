@@ -30,6 +30,7 @@ domain:api-adservices.apple.com
 domain:iadsdk.apple.com
 domain:iad.apple.com
 domain:qwapi.com
+domain:advertising.apple.com
 
 # v2fly apple-pki
 
@@ -42,6 +43,7 @@ domain:ocsp.apple.com
 domain:ocsp2-lb.apple.com.akadns.net
 domain:ocsp2.apple.com
 domain:valid.apple.com
+full:valid.origin-apple.com.akadns.net
 
 # v2fly icloud
 
@@ -104,6 +106,8 @@ domain:crl4.digicert.com
 domain:ocsp.digicert.cn
 domain:ocsp.digicert.com
 domain:push.apple.com
+full:push-apple.com.akadns.net
+domain:courier-push-apple.com.akadns.net
 domain:identity.apple.com
 
 # Прочее
