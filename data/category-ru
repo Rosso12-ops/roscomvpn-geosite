@@ -529,3 +529,86 @@ domain:tokenator.top  # from category-ai-ru
 domain:tvoyodbo.online  # from mts-ru
 domain:vimu.tv  # from category-ru; Vimu Media Player
 domain:xlnk.ms  # from category-ru
+
+# Покрытие по ГеоIP (навсякий случай оставлено)
+domain:sberbank.ru
+domain:raiffeisen.ru
+domain:rosbank.ru
+domain:pochtabank.ru
+domain:avto.ru
+domain:aliexpress.ru
+domain:alfa.me  # from category-bank-ru
+domain:alfabank.st  # from category-bank-ru
+domain:bk6bba-resources.com  # from fonbet
+domain:callbackkiller.com  # from envybox
+domain:cdek.shopping  # from cdek
+domain:dashlytrack.app  # from carrotquest
+domain:eadaily.net  # from category-media-ru
+domain:envybox.io  # from envybox
+domain:envycdp.com  # from envybox
+domain:facct.email  # from group-ib
+domain:flowwow.com  # from flowwow
+domain:fon.bet  # from fonbet
+domain:gismeteo.net  # from gismeteo
+domain:gismeteo.st  # from gismeteo
+domain:gorzdrav.org  # from category-medicine-ru
+domain:green-box-tv.com  # from rt
+domain:hva.im  # from category-bank-ru; Sovcombank Halva
+domain:icq-mobile.com  # from mailru-group
+domain:icq-phone.org  # from mailru-group
+domain:icqbrasil.com  # from mailru-group
+domain:icqchat.com  # from mailru-group
+domain:icqgames.com  # from mailru-group
+domain:icqservice.com  # from mailru-group
+domain:icqsystem.com  # from mailru-group
+domain:icqtutor.com  # from mailru-group
+domain:ixbt.media  # from ixbt; Information about the media group IXBT
+domain:ixbt.shop  # from ixbt; IXBT`s merch
+domain:kontur.host  # from kontur
+domain:mailicq.org  # from mailru-group
+domain:mcs.st  # from mailru-group
+domain:meteum.ai  # from yandex
+domain:mfa.center  # from category-ru
+domain:mindbox.site  # from mindbox
+domain:mosmetro.tech  # from mosmetro
+domain:mp.world  # from wildberries
+domain:mts-ws.net  # from mts-ru
+domain:netcraze.club  # from netcraze
+domain:netcraze.pro  # from netcraze
+domain:noticias-rt.com  # from rt
+domain:ozon.com  # from ozon
+domain:ozon.express  # from ozon
+domain:ozon.tech  # from ozon
+domain:poudobnee.com  # from cian
+domain:public.express  # from category-ru
+domain:pz.help  # from category-medicine-ru
+domain:rbsgate.com  # from category-bank-ru
+domain:romanovs100.com  # from rt
+domain:rossiyasegodnya.com  # from rossiyasegodnya
+domain:rttv.com  # from rt
+domain:ru.com  # from category-ru
+domain:ruhub.tv  # from mailru-group
+domain:russiatoday.net  # from rt
+domain:rutube.sport  # from rutube
+domain:sber.pro  # from sber
+domain:sberbank-tele.com  # from sber
+domain:seclab.lat  # from category-tech-media-ru
+domain:selectel.live  # from selectel
+domain:smailru.net  # from mailru-group
+domain:sokolov.io  # from sokolov
+domain:srv-hub.org  # from category-ru; Website buider
+domain:taxiguru.org  # from yandex
+domain:tehnodom.com  # from selectel
+domain:tinkoff-group.com  # from tbank-ru
+domain:tok.media  # from rossiyasegodnya
+domain:unidraw.io  # from tbank-ru
+domain:viqeo.tv  # from mailru-group
+domain:vkontakte.com  # from vk
+domain:vmailru.net  # from mailru-group
+domain:wbstatic.net  # from wildberries
+domain:wibes.com  # from wildberries
+domain:x5.team  # from x5
+domain:xn----7sbaba0dc6cdn7cxcj.com  # from mailru-group; аська-скачать.com
+domain:xn--90ab.com  # from wildberries; вб.com
+domain:xn--90aifd0azb.xn--p1acf  # from tbank-ru; тбизнес.рус
+domain:yourgood.app  # from category-ru; CRM for small business
