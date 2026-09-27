@@ -8,7 +8,6 @@ domain:origin.tv
 
 domain:cloudsync-prod.s3.amazonaws.com
 domain:origin-a.akamaihd.net
-domain:rtm.tnt-ea.com
 domain:ssl-lvlt.cdn.ea.com
 
 # EA
@@ -85,7 +84,6 @@ domain:anthemthegame.com
 
 # Apex Legends
 domain:apexlegends.com
-domain:projectapex.com
 
 # Bioware
 domain:bioware.com
@@ -98,7 +96,6 @@ domain:eamythic.net
 # Command and Conquer
 domain:cncrivals.com
 domain:commandandconquer.com
-domain:tiberiumalliances.com
 
 # Dark Age of Camelot
 domain:camelot-europe.com
