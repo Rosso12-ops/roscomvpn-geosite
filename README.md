@@ -101,7 +101,7 @@
 <table width="100%">
 <thead><tr><th align="left">Категория</th><th align="left">Описание</th><th align="left">Назначение</th></tr></thead>
 <tbody>
-<tr><td><code>category-ads</code></td><td>Рекламные домены</td><td>В block, реклама в VK/Mail.Ru</td></tr>
+<tr><td><code>category-ads</code></td><td>Рекламные домены</td><td>В block, реклама в Avito, Mail.ru, MTS, Ozon, Rostelecom, Sber, Wildberries, X5, Yandex</td></tr>
 <tr><td><code>win-spy</code></td><td>Windows телеметрия/слежка (~377)</td><td>В block, слежка</td></tr>
 <tr><td><code>private</code></td><td>Приватные/внутренние сети</td><td>Только директ, обязательный</td></tr>
 <tr><td><code>torrent</code></td><td>Торрент-трекеры и DHT</td><td>Блок, работает не на 100%</td></tr>
