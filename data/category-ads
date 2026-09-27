@@ -311,27 +311,23 @@ full:web-analytics.wildberries.ru
 
 # Тестово (требуется проверка)
 full:bid.sspnet.tech
-full:exchange.buzzoola.com
-full:hb-bidder.skcrtxr.com
 full:match.new-programmatic.com
 full:match.ohmy.bid
 full:match.targetrtb.com
 full:r.ussp.io
 full:sp.ohmy.bid
-full:spx.otm-r.com
 full:ssp.al-adtech.com
 full:ssp2.sspnet.tech
 full:sync.adlook.online
 full:sync.adsp.io
 full:sync.adspend.space
-full:sync.dmp.otm-r.com
-full:sync.programmatica.com
+domain:programmatica.com
 full:sync.skcrtxr.com
 domain:buzzoola.com
 full:a.adlook.tech
 full:a.ussp.io
 full:uid.ssp.bidvol.com
-full:px.adhigh.net
+domain:adhigh.net
 full:cdn.al-adtech.com
 full:ssp.bidvol.com
 full:kimberlite.io
@@ -341,3 +337,9 @@ full:fonts.24smi.net
 domain:acint.net
 domain:skcrtxr.com
 full:sync.dvgroup.com
+full:static.terratraf.com
+domain:traffaret.com
+domain:otm-r.com
+domain:viadata.store
+domain:admon.pro
+domain:new-programmatic.com
