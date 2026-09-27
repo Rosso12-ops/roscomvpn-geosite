@@ -125,119 +125,71 @@ domain:rdp-onedash.ru
 domain:aviasales.ru
 domain:usmall.ru
 # Добавка
+
+# RT / Rossiya Segodnya
 domain:1917live.red  # from rt
-domain:24h.tv  # from category-entertainment-ru
-domain:2gis.tech  # from 2gis
-domain:3ebra.net  # from category-ru; Zebra Net Bureau, web development agency
-domain:4epenaxa.com  # from tbank-ru
-domain:acmvid.com  # from mvideo
 domain:actualidad-rt.com  # from rt
-domain:adygtelecom.com  # from category-ru; Adygea Telephone Company, regional operator
 domain:ahilesva.info  # from rt
-domain:algoritmika.org  # from mailru-group
-domain:aodahl.com  # from mailru-group
-domain:apptrackpets.com  # from category-ru; Pet GPS tracker service (Yandex Cloud, reg.ru)
-domain:armgs.team  # from mailru-group
 domain:artel.watch  # from rt
 domain:arteldoc.com  # from rt
 domain:arteldoc.tv  # from rt
 domain:asiangooglenetwork.com  # from rt; Redirect
-domain:atomyze.tech  # from tbank-ru
-domain:attachmy.com  # from mailru-group
-domain:autoru.me  # from autoru
-domain:aviasales.com  # from aviasales
-domain:avs.io  # from aviasales
 domain:baranky.com  # from rt
-domain:bargipsy.com  # from mailru-group
-domain:beeline.tv  # from category-entertainment-ru
-domain:beget.com  # from beget
-domain:best2pay.net  # from category-bank-ru
-domain:bizmrg.com  # from mailru-group
 domain:book1917.live  # from rt
+domain:drobbox.pro  # from rt
+domain:freeassange.tech  # from rt
+domain:freedert.online  # from rt
+domain:gw2ru.com  # from rt
+domain:khangar.net  # from rt
+domain:ktech.team  # from rt
+domain:pobeda.page  # from rt
+domain:premiumlive.site  # from rt
+domain:rbth.com  # from rt
+domain:rt-school.online  # from rt
+domain:rt.com  # from rt
+domain:rtdoc.tv  # from rt
+domain:rtdocumentary.online  # from rt
+domain:rteam.dev  # from rt
+domain:rteam.tech  # from rt
+domain:rtnewsru.com  # from rt
+domain:rtrunews.com  # from rt
+domain:runewsrt.com  # from rt
+domain:ruptly.agency  # from rt
+domain:ruptly.tv  # from rt
+domain:ruptly.video  # from rt
+domain:rurtnews.com  # from rt
+domain:russiabeyond.com  # from rt
+domain:russiaislove.com  # from rt
+domain:russiatoday.com  # from rt
+domain:russiatoday.tv  # from rt
+domain:shop-rt.com  # from rt
+domain:slavicstar.com  # from rt
+domain:sputnikglobe.com  # from rossiyasegodnya
+domain:sputnikimages.com  # from rossiyasegodnya
+domain:sputnikmediabank.com  # from rossiyasegodnya
+domain:sputniknews.com  # from rossiyasegodnya
+domain:swentr.site  # from rt; Mirror
+domain:watchingthehawks.com  # from rt
+domain:worldcuprussia.com  # from rt
+
+# VK Group / Mail.ru Group
+domain:algoritmika.org  # from mailru-group
+domain:aodahl.com  # from mailru-group
+domain:armgs.team  # from mailru-group
+domain:attachmy.com  # from mailru-group
+domain:bargipsy.com  # from mailru-group
+domain:bizmrg.com  # from mailru-group
 domain:boosty.to  # from mailru-group
-domain:botmechanic.io  # from mindbox
-domain:cabconnect.org  # from yandex
-domain:carrot-mail.io  # from carrotquest
-domain:carrotquest-mail.io  # from carrotquest
-domain:carrotquest.app  # from carrotquest
-domain:carrotquest.io  # from carrotquest
-domain:carrottrack.app  # from carrotquest
-domain:cbkiller.com  # from envybox
 domain:cdn-vk.net  # from vk
-domain:cdnvideohub.com  # from category-entertainment-ru
-domain:cert-gib.com  # from group-ib
-domain:chipcore.com  # from selectel
-domain:cian.site  # from cian
 domain:ciciq.net  # from mailru-group
-domain:cm.expert  # from autoru
-domain:comss.club  # from comssone
-domain:comss.info  # from comssone
-domain:comss.me  # from comssone
-domain:comss.net  # from comssone
-domain:comss.news  # from comssone
-domain:comss.one  # from comssone
-domain:comss.online  # from comssone
-domain:comss.org  # from comssone
-domain:copymonkey.app  # from category-ai-ru
-domain:corp.express  # from category-ru
 domain:cups.online  # from mailru-group
-domain:cybercrimecon.com  # from group-ib
 domain:dahlmessenger.com  # from mailru-group
-domain:dashly.app  # from carrotquest
-domain:dashly.help  # from carrotquest
-domain:dashly.io  # from carrotquest
-domain:dashly.me  # from carrotquest
 domain:datacloudmy.com  # from mailru-group
 domain:dev-my.com  # from mailru-group
 domain:dev-my.games  # from mailru-group
-domain:dodois.com  # from category-retail-ru
-domain:dodois.io  # from category-retail-ru
-domain:dodopizza.com  # from category-retail-ru
-domain:dodostatic.net  # from category-retail-ru
-domain:driveawaytaxi.org  # from yandex
-domain:drobbox.pro  # from rt
-domain:drweb.com  # from drweb
-domain:durovscode.com  # from category-tech-media-ru
-domain:eadaily.com  # from category-media-ru
-domain:eadaily.info  # from category-media-ru
-domain:eadaily.org  # from category-media-ru
-domain:eaptechka.online  # from sber
-domain:edu22.info  # from category-gov-ru; Official portal of the Altai krai education system
-domain:eligens.io  # from genotek-ru
-domain:envybox.company  # from envybox
-domain:envybox.family  # from envybox
-domain:envycrm.com  # from envybox
 domain:epicevents.gg  # from mailru-group
 domain:esforce.com  # from mailru-group
-domain:etna.ai  # from tbank-ru
-domain:evrasia.rest  # from category-retail-ru
-domain:express.ms  # from category-ru
-domain:f6.dev  # from group-ib
-domain:f6.security  # from group-ib
-domain:flomni.com  # from category-ru; Omnichannel communications platform
-domain:flowwow-images.com  # from flowwow
-domain:fon.promo  # from fonbet
-domain:foto-planeta.com  # from category-ru; Photo encyclopedia of settlements
-domain:freeassange.tech  # from rt
-domain:freedert.online  # from rt
-domain:funpay.com  # from funpay
-domain:gazprombank.com  # from category-bank-ru
-domain:gazprombank.investments  # from category-bank-ru
-domain:genotek.health  # from genotek-ru
-domain:gerwin.io  # from category-ai-ru
-domain:getsynapse.io  # from sber
-domain:gib-global.com  # from group-ib
-domain:gibdev.net  # from group-ib
-domain:giga.chat  # from category-ai-ru
-domain:gismeteo.com  # from gismeteo
-domain:gogettaxi.org  # from yandex
 domain:goicq.org  # from mailru-group
-domain:goup.ai  # from yandex
-domain:gramotei.online  # from category-education-ru; Platform for learning russian
-domain:greywallpass.com  # from category-travel-ru
-domain:group-ib.com  # from group-ib
-domain:gw2ru.com  # from rt
-domain:haicomdc.com  # from selectel
 domain:icq-download.com  # from mailru-group
 domain:icq-online.com  # from mailru-group
 domain:icq-phone.com  # from mailru-group
@@ -262,65 +214,103 @@ domain:icqsupportteam.com  # from mailru-group
 domain:icqsystems.com  # from mailru-group
 domain:icqtoday.com  # from mailru-group
 domain:icqvideo.com  # from mailru-group
-domain:ideco.dev  # from ideco-ru
 domain:it-territory.com  # from mailru-group
-domain:ivicdn.tv  # from category-entertainment-ru
-domain:ixbt.com  # from ixbt; Independent online publication about technology
-domain:ixbt.games  # from ixbt; Russian website about computer and mobile games and digital technologies
-domain:ixbt.market  # from ixbt; Media about the information technology market
-domain:ixbt.pro  # from ixbt; Everything about business in the IT
-domain:ixbt.site  # from ixbt
-domain:ixbt.video  # from ixbt; Videos by IXBT
-domain:jivo.chat  # from sber
-domain:jump.taxi  # from tbank-ru
 domain:justveryok.com  # from mailru-group
-domain:kaspersky-labs.com  # from kaspersky
 domain:keyboardmen.com  # from mailru-group
-domain:khangar.net  # from rt
-domain:kinorium.com  # from category-entertainment-ru
 domain:knightspeak.com  # from mailru-group
-domain:kontur-inc.com  # from kontur
-domain:koshelek.app  # from tbank-ru
-domain:ktech.team  # from rt
-domain:lenta.tech  # from category-retail-ru
 domain:lovina.app  # from mailru-group
-domain:magnit.com  # from magnit
-domain:mail-carrotquest.io  # from carrotquest
-domain:mcc250.pub.3gppnetwork.org  # from category-ru; Mobile IMS
-domain:medsi.com  # from category-medicine-ru
-domain:medsi.pro  # from category-medicine-ru
-domain:megafon.com  # from megafon
-domain:mel.fm  # from category-education-ru; Website about proper spelling in russian
-domain:meteofor.com  # from gismeteo
-domain:meteofor.st  # from gismeteo
-domain:mindbox.cloud  # from mindbox
-domain:mindbox.group  # from mindbox
-domain:mindbox.so  # from mindbox
 domain:mirabilis.com  # from mailru-group
 domain:mirandaicq.com  # from mailru-group
-domain:mobile-bb.com  # from betboom
 domain:mobile-icq.com  # from mailru-group
 domain:mobileicq.com  # from mailru-group
-domain:more.tv  # from wink
 domain:movika.com  # from mailru-group
 domain:mpgw-my.com  # from mailru-group
-domain:mti.moscow  # manually requested by user
-full:mvideo.edna.io  # from mvideo
-domain:my-manager-account.com  # from yandex
 domain:my.com  # from mailru-group
 domain:my.games  # from mailru-group
-domain:myoffice.team  # from myoffice-ru
 domain:mytopf.com  # from mailru-group
 domain:mytrk.link  # from mailru-group; block might break something, needs further investigation
-domain:netcraze.link  # from netcraze
-domain:netschool.website  # from category-gov-ru; Students online journal
-domain:ngenix.net  # from category-ru; NGENIX is a Russian provider of acceleration and security services for public web resources
-domain:ognihome.com  # from category-ru; OGNI HOME resident portal
 domain:ok.me  # from ok
-domain:okkoapi.tv  # from okko
-domain:opennet.dev  # from category-forums-ru; Website about open source, linux, BSD and unix systems
-domain:oskelly.co  # from oskelly
-domain:ostin.com  # from category-retail-ru
+domain:pixonic.com  # from mailru-group
+domain:prod-my.games  # from mailru-group
+domain:rabbitcounter.com  # from mailru-group
+domain:rustore.team  # from mailru-group
+domain:rustore.tv  # from mailru-group
+domain:skbx.pro  # from mailru-group; Probably a CDN
+domain:skillbox.pro  # from mailru-group
+domain:staticmy.com  # from mailru-group
+domain:tarantool.io  # from mailru-group
+domain:telega.info  # from mailru-group
+domain:telega.me  # from mailru-group
+domain:uma.media  # from mailru-group
+domain:umschool.net  # from mailru-group
+domain:viqeotv.com  # from mailru-group
+domain:vkcdnservice.com  # from vk
+domain:vkclips.app  # from mailru-group
+domain:vkcs.cloud  # from mailru-group
+domain:vkpay.app  # from vk
+domain:vkpay.com  # from vk
+domain:vkpay.io  # from vk
+domain:vkplay.live  # from mailru-group
+domain:vkuserlive.com  # from vk
+domain:xn-----6kc7adj0c9esa.com  # from mailru-group; ай-си-кью.com
+domain:xn----7sbabae2a0bnvtsfr4loc.com  # from mailru-group; аська-бесплатная.com
+domain:xn----7sbbab6bregnh7b8if5b.com  # from mailru-group; мобильная-аська.com
+domain:xn----7sbbamm1bv2bh7i.com  # from mailru-group; агент-аська.com
+domain:xn----8sbaroledu6bi7j.com  # from mailru-group; клиент-аська.com
+domain:xn----8sbeoy5bze.com  # from mailru-group; в-аське.com
+domain:xn--80aqcf7a6do.com  # from mailru-group; айсикью.com
+domain:yclients.com  # from mailru-group
+
+# Yandex
+domain:cabconnect.org  # from yandex
+domain:driveawaytaxi.org  # from yandex
+domain:gogettaxi.org  # from yandex
+domain:goup.ai  # from yandex
+domain:my-manager-account.com  # from yandex
+domain:shedevrum.ai  # from yandex
+domain:sourcecraft.dev  # from yandex
+domain:support-uber.com  # from yandex
+domain:taxiaid.org  # from yandex
+domain:taxitax.org  # from yandex
+domain:ya.cc  # from yandex
+domain:yandex.mobi  # from yandex
+domain:yandexgo.com  # from yandex
+domain:yndx.net  # from yandex
+
+# T-Bank
+domain:4epenaxa.com  # from tbank-ru
+domain:atomyze.tech  # from tbank-ru
+domain:etna.ai  # from tbank-ru
+domain:jump.taxi  # from tbank-ru
+domain:koshelek.app  # from tbank-ru
+domain:prodcontest.com  # from tbank-ru
+domain:rosbank-credit.com  # from tbank-ru
+domain:safeliner.tech  # from tbank-ru
+domain:sage-observability.tech  # from tbank-ru
+domain:t-finance.group  # from tbank-ru
+domain:t-tech.dev  # from tbank-ru
+domain:t-tech.team  # from tbank-ru
+domain:t.finance  # from tbank-ru
+domain:tinkoff.ai  # from tbank-ru
+domain:tinkoffmobile.com  # from tbank-ru
+domain:xn--90aifd0az.shop  # from tbank-ru
+domain:xn--b1aechhj6bof8g5a.site  # from tbank-ru
+domain:xn--d1abkf4ap.fun  # from tbank-ru
+domain:xn--h1ao.site  # from tbank-ru
+
+# Sber
+domain:eaptechka.online  # from sber
+domain:getsynapse.io  # from sber
+domain:jivo.chat  # from sber
+domain:sberauto.com  # from sber
+domain:sberbank.com  # from sber
+domain:sbercloud.tech  # from sber
+domain:spasibo.digital  # from sber
+domain:spasibo.market  # from sber
+domain:zvuk-b2b.com  # from sber
+domain:zvuk.com  # from sber
+
+# Ozon
 domain:ozon.app  # from ozon
 domain:ozon.dev  # from ozon
 domain:ozon.global  # from ozon
@@ -330,58 +320,51 @@ domain:ozoncamp.pro  # from ozon
 domain:ozonglobalevents.com  # from ozon
 domain:ozonru.com  # from ozon
 domain:ozonru.me  # from ozon
+domain:xn--e1adjldbbpv.xn--90ais  # from ozon; озонрокет.бел
+
+# Wildberries
 domain:paywb.com  # from wildberries
+domain:rwbautomation.tech  # from wildberries
+domain:warehouse.domains  # from wildberries
+domain:wbautomation.tech  # from wildberries
+domain:wbcontent.net  # from wildberries
+domain:wbwh.tech  # from wildberries
+
+# X5
 domain:perekrestok.com  # from x5
-domain:pixonic.com  # from mailru-group
-domain:pobeda.page  # from rt
-domain:polza.ai  # from category-ai-ru
-domain:popmechanic.io  # from mindbox
-domain:premier.one  # from category-entertainment-ru
-domain:premiumlive.site  # from rt
-domain:prod-my.games  # from mailru-group
-domain:prodcontest.com  # from tbank-ru
-domain:promodj.com  # from category-entertainment-ru; Electronic music and DJ community platform
-domain:ptsecurity.com  # from positive-technologies
-domain:pushgrow.io  # from carrotquest
-domain:rabbitcounter.com  # from mailru-group
-domain:randomgodbot.com  # from category-ru; Telegram randomizer bot
-domain:rbsuat.com  # from category-bank-ru
-domain:rbth.com  # from rt
-domain:reaviz.com  # from category-medicine-ru
+domain:x5.ai  # from x5
+domain:x5.com  # from x5
+domain:x5.digital  # from x5
+domain:x5.group  # from x5
+domain:x5.media  # from x5
+domain:x5static.net  # from x5
+
+# Retail / marketplaces
+domain:acmvid.com  # from mvideo
+domain:dodois.com  # from category-retail-ru
+domain:dodois.io  # from category-retail-ru
+domain:dodopizza.com  # from category-retail-ru
+domain:dodostatic.net  # from category-retail-ru
+domain:evrasia.rest  # from category-retail-ru
+domain:flowwow-images.com  # from flowwow
+domain:lenta.tech  # from category-retail-ru
+domain:magnit.com  # from magnit
+full:mvideo.edna.io  # from mvideo
+domain:oskelly.co  # from oskelly
+domain:ostin.com  # from category-retail-ru
+domain:uni.rest  # from category-retail-ru
+domain:unirest.tech  # from category-retail-ru
+
+# Cloud / infrastructure
+domain:2gis.tech  # from 2gis
+domain:beget.com  # from beget
+domain:chipcore.com  # from selectel
+domain:haicomdc.com  # from selectel
+domain:ideco.dev  # from ideco-ru
+domain:megafon.com  # from megafon
+domain:netcraze.link  # from netcraze
 domain:reg.cloud  # from regru
 domain:reg.com  # from regru
-domain:reso-med.com  # from category-medicine-ru
-domain:restream-media.net  # from wink
-domain:robotext.io  # from category-ai-ru
-domain:rosbank-credit.com  # from tbank-ru
-domain:rt-school.online  # from rt
-domain:rt.com  # from rt
-domain:rtdoc.tv  # from rt
-domain:rtdocumentary.online  # from rt
-domain:rteam.dev  # from rt
-domain:rteam.tech  # from rt
-domain:rtnewsru.com  # from rt
-domain:rtrunews.com  # from rt
-domain:ru.net  # from category-ru
-domain:rugpt.io  # from category-ai-ru
-domain:runewsrt.com  # from rt
-domain:ruptly.agency  # from rt
-domain:ruptly.tv  # from rt
-domain:ruptly.video  # from rt
-domain:rurtnews.com  # from rt
-domain:russiabeyond.com  # from rt
-domain:russiaislove.com  # from rt
-domain:russiatoday.com  # from rt
-domain:russiatoday.tv  # from rt
-domain:rustore.team  # from mailru-group
-domain:rustore.tv  # from mailru-group
-domain:rwbautomation.tech  # from wildberries
-domain:saas-support.com  # from envybox
-domain:safeliner.tech  # from tbank-ru
-domain:sage-observability.tech  # from tbank-ru
-domain:sberauto.com  # from sber
-domain:sberbank.com  # from sber
-domain:sbercloud.tech  # from sber
 domain:selcdn.net  # from selectel
 domain:selectel.academy  # from selectel
 domain:selectel.blog  # from selectel
@@ -392,46 +375,24 @@ domain:selectel.io  # from selectel
 domain:servercore.com  # from selectel
 domain:servercore.live  # from selectel
 domain:servicepipe.tech  # from servicepipe
-domain:shedevrum.ai  # from yandex
-domain:shop-rt.com  # from rt
-domain:skbx.pro  # from mailru-group; Probably a CDN
-domain:skillbox.pro  # from mailru-group
-domain:sky.pro  # from skyeng
-domain:slavicstar.com  # from rt
 domain:slc.tl  # from selectel
-domain:smartmed.pro  # from category-medicine-ru
-domain:smena.cafe  # from smena
-domain:smotreshka.tv  # from category-entertainment-ru
-domain:sourcecraft.dev  # from yandex
-domain:spasibo.digital  # from sber
-domain:spasibo.market  # from sber
-domain:sputnikglobe.com  # from rossiyasegodnya
-domain:sputnikimages.com  # from rossiyasegodnya
-domain:sputnikmediabank.com  # from rossiyasegodnya
-domain:sputniknews.com  # from rossiyasegodnya
-domain:standoff365.com  # from positive-technologies
-domain:staticmy.com  # from mailru-group
-domain:support-uber.com  # from yandex
-domain:swentr.site  # from rt; Mirror
-domain:t-finance.group  # from tbank-ru
-domain:t-tech.dev  # from tbank-ru
-domain:t-tech.team  # from tbank-ru
-domain:t.finance  # from tbank-ru
-domain:t1.cloud  # from category-ru; Russian cloud storage provider
-domain:tak-pravilno.com  # from category-education-ru; Website about proper spelling in russian
-domain:tarantool.io  # from mailru-group
-domain:taxiaid.org  # from yandex
-domain:taxitax.org  # from yandex
-domain:telega.info  # from mailru-group
-domain:telega.me  # from mailru-group
+domain:vscale.blog  # from selectel
+domain:vscale.io  # from selectel
+
+# Web platforms / software
+domain:comss.club  # from comssone
+domain:comss.info  # from comssone
+domain:comss.me  # from comssone
+domain:comss.net  # from comssone
+domain:comss.news  # from comssone
+domain:comss.one  # from comssone
+domain:comss.online  # from comssone
+domain:comss.org  # from comssone
+domain:myoffice.team  # from myoffice-ru
 domain:tilda.ws  # from tilda
 domain:tildaapi.com  # from tilda
 domain:tildacdn.com  # from tilda
 domain:tildacdn.net  # from tilda
-domain:tinkoff.ai  # from tbank-ru
-domain:tinkoffmobile.com  # from tbank-ru
-domain:tokenator.top  # from category-ai-ru
-domain:tvoyodbo.online  # from mts-ru
 domain:ucoz.club  # from ucoz
 domain:ucoz.com  # from ucoz
 domain:ucoz.net  # from ucoz
@@ -444,56 +405,127 @@ domain:ukit.ai  # from ucoz
 domain:ukit.com  # from ucoz
 domain:ukit.group  # from ucoz
 domain:ukit.me  # from ucoz
-domain:uma.media  # from mailru-group
-domain:umschool.net  # from mailru-group
-domain:uni.rest  # from category-retail-ru
-domain:unirest.tech  # from category-retail-ru
 domain:usocial.pro  # from ucoz
-domain:vimu.tv  # from category-ru; Vimu Media Player
-domain:viqeotv.com  # from mailru-group
-domain:vkcdnservice.com  # from vk
-domain:vkclips.app  # from mailru-group
-domain:vkcs.cloud  # from mailru-group
-domain:vkpay.app  # from vk
-domain:vkpay.com  # from vk
-domain:vkpay.io  # from vk
-domain:vkplay.live  # from mailru-group
-domain:vkuserlive.com  # from vk
-domain:volganet.net  # from category-gov-ru; Volgograd Oblast
-domain:vscale.blog  # from selectel
-domain:vscale.io  # from selectel
-domain:warehouse.domains  # from wildberries
-domain:watchingthehawks.com  # from rt
-domain:wbautomation.tech  # from wildberries
-domain:wbcontent.net  # from wildberries
-domain:wbwh.tech  # from wildberries
+
+# CRM / customer tools
+domain:botmechanic.io  # from mindbox
+domain:carrot-mail.io  # from carrotquest
+domain:carrotquest-mail.io  # from carrotquest
+domain:carrotquest.app  # from carrotquest
+domain:carrotquest.io  # from carrotquest
+domain:carrottrack.app  # from carrotquest
+domain:cbkiller.com  # from envybox
+domain:dashly.app  # from carrotquest
+domain:dashly.help  # from carrotquest
+domain:dashly.io  # from carrotquest
+domain:dashly.me  # from carrotquest
+domain:envybox.company  # from envybox
+domain:envybox.family  # from envybox
+domain:envycrm.com  # from envybox
+domain:mail-carrotquest.io  # from carrotquest
+domain:mindbox.cloud  # from mindbox
+domain:mindbox.group  # from mindbox
+domain:mindbox.so  # from mindbox
+domain:popmechanic.io  # from mindbox
+domain:pushgrow.io  # from carrotquest
+domain:saas-support.com  # from envybox
 domain:whitesaas.com  # from envybox
-domain:worldcuprussia.com  # from rt
-domain:x5.ai  # from x5
-domain:x5.com  # from x5
-domain:x5.digital  # from x5
-domain:x5.group  # from x5
-domain:x5.media  # from x5
-domain:x5static.net  # from x5
-domain:xlnk.ms  # from category-ru
-domain:xn-----6kc7adj0c9esa.com  # from mailru-group; ай-си-кью.com
-domain:xn----7sbabae2a0bnvtsfr4loc.com  # from mailru-group; аська-бесплатная.com
-domain:xn----7sbbab6bregnh7b8if5b.com  # from mailru-group; мобильная-аська.com
-domain:xn----7sbbamm1bv2bh7i.com  # from mailru-group; агент-аська.com
-domain:xn----8sbaroledu6bi7j.com  # from mailru-group; клиент-аська.com
-domain:xn----8sbeoy5bze.com  # from mailru-group; в-аське.com
-domain:xn--80aqcf7a6do.com  # from mailru-group; айсикью.com
-domain:xn--90aifd0az.shop  # from tbank-ru
-domain:xn--b1aechhj6bof8g5a.site  # from tbank-ru
-domain:xn--d1abkf4ap.fun  # from tbank-ru
-domain:xn--e1adjldbbpv.xn--90ais  # from ozon; озонрокет.бел
-domain:xn--h1ao.site  # from tbank-ru
-domain:ya.cc  # from yandex
-domain:yandex.mobi  # from yandex
-domain:yandexgo.com  # from yandex
+
+# Cybersecurity
+domain:cert-gib.com  # from group-ib
+domain:cybercrimecon.com  # from group-ib
+domain:drweb.com  # from drweb
+domain:f6.dev  # from group-ib
+domain:f6.security  # from group-ib
+domain:gib-global.com  # from group-ib
+domain:gibdev.net  # from group-ib
+domain:group-ib.com  # from group-ib
+domain:kaspersky-labs.com  # from kaspersky
+domain:ptsecurity.com  # from positive-technologies
+domain:standoff365.com  # from positive-technologies
+
+# Media / entertainment
+domain:24h.tv  # from category-entertainment-ru
+domain:beeline.tv  # from category-entertainment-ru
+domain:cdnvideohub.com  # from category-entertainment-ru
+domain:durovscode.com  # from category-tech-media-ru
+domain:eadaily.com  # from category-media-ru
+domain:eadaily.info  # from category-media-ru
+domain:eadaily.org  # from category-media-ru
+domain:fon.promo  # from fonbet
+domain:funpay.com  # from funpay
+domain:gismeteo.com  # from gismeteo
+domain:ivicdn.tv  # from category-entertainment-ru
+domain:ixbt.com  # from ixbt; Independent online publication about technology
+domain:ixbt.games  # from ixbt; Russian website about computer and mobile games and digital technologies
+domain:ixbt.market  # from ixbt; Media about the information technology market
+domain:ixbt.pro  # from ixbt; Everything about business in the IT
+domain:ixbt.site  # from ixbt
+domain:ixbt.video  # from ixbt; Videos by IXBT
+domain:kinorium.com  # from category-entertainment-ru
+domain:meteofor.com  # from gismeteo
+domain:meteofor.st  # from gismeteo
+domain:mobile-bb.com  # from betboom
+domain:more.tv  # from wink
+domain:okkoapi.tv  # from okko
+domain:opennet.dev  # from category-forums-ru; Website about open source, linux, BSD and unix systems
+domain:premier.one  # from category-entertainment-ru
+domain:promodj.com  # from category-entertainment-ru; Electronic music and DJ community platform
+domain:restream-media.net  # from wink
+domain:smotreshka.tv  # from category-entertainment-ru
 domain:yaplakal.com  # from category-forums-ru; Entertainment forum
-domain:yclients.com  # from mailru-group
-domain:yndx.net  # from yandex
-domain:zvuk-b2b.com  # from sber
-domain:zvuk.com  # from sber
+
+# Education / healthcare
+domain:edu22.info  # from category-gov-ru; Official portal of the Altai krai education system
+domain:eligens.io  # from genotek-ru
+domain:genotek.health  # from genotek-ru
+domain:gramotei.online  # from category-education-ru; Platform for learning russian
+domain:medsi.com  # from category-medicine-ru
+domain:medsi.pro  # from category-medicine-ru
+domain:mel.fm  # from category-education-ru; Website about proper spelling in russian
+domain:netschool.website  # from category-gov-ru; Students online journal
+domain:reaviz.com  # from category-medicine-ru
+domain:reso-med.com  # from category-medicine-ru
+domain:sky.pro  # from skyeng
+domain:smartmed.pro  # from category-medicine-ru
+domain:tak-pravilno.com  # from category-education-ru; Website about proper spelling in russian
+domain:volganet.net  # from category-gov-ru; Volgograd Oblast
+
+# Other companies / services
+domain:3ebra.net  # from category-ru; Zebra Net Bureau, web development agency
+domain:adygtelecom.com  # from category-ru; Adygea Telephone Company, regional operator
+domain:apptrackpets.com  # from category-ru; Pet GPS tracker service (Yandex Cloud, reg.ru)
+domain:autoru.me  # from autoru
+domain:aviasales.com  # from aviasales
+domain:avs.io  # from aviasales
+domain:best2pay.net  # from category-bank-ru
+domain:cian.site  # from cian
+domain:cm.expert  # from autoru
+domain:copymonkey.app  # from category-ai-ru
+domain:corp.express  # from category-ru
+domain:express.ms  # from category-ru
+domain:flomni.com  # from category-ru; Omnichannel communications platform
+domain:foto-planeta.com  # from category-ru; Photo encyclopedia of settlements
+domain:gazprombank.com  # from category-bank-ru
+domain:gazprombank.investments  # from category-bank-ru
+domain:gerwin.io  # from category-ai-ru
+domain:giga.chat  # from category-ai-ru
+domain:greywallpass.com  # from category-travel-ru
+domain:kontur-inc.com  # from kontur
+domain:mcc250.pub.3gppnetwork.org  # from category-ru; Mobile IMS
+domain:mti.moscow  # manually requested by user
+domain:ngenix.net  # from category-ru; NGENIX is a Russian provider of acceleration and security services for public web resources
+domain:ognihome.com  # from category-ru; OGNI HOME resident portal
 domain:osnova.io
+domain:polza.ai  # from category-ai-ru
+domain:randomgodbot.com  # from category-ru; Telegram randomizer bot
+domain:rbsuat.com  # from category-bank-ru
+domain:robotext.io  # from category-ai-ru
+domain:ru.net  # from category-ru
+domain:rugpt.io  # from category-ai-ru
+domain:smena.cafe  # from smena
+domain:t1.cloud  # from category-ru; Russian cloud storage provider
+domain:tokenator.top  # from category-ai-ru
+domain:tvoyodbo.online  # from mts-ru
+domain:vimu.tv  # from category-ru; Vimu Media Player
+domain:xlnk.ms  # from category-ru
