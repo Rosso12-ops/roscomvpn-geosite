@@ -228,7 +228,6 @@ domain:mpgw-my.com  # from mailru-group
 domain:my.com  # from mailru-group
 domain:my.games  # from mailru-group
 domain:mytopf.com  # from mailru-group
-domain:mytrk.link  # from mailru-group; block might break something, needs further investigation
 domain:ok.me  # from ok
 domain:pixonic.com  # from mailru-group
 domain:prod-my.games  # from mailru-group
