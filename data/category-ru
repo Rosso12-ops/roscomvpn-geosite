@@ -512,7 +512,6 @@ domain:giga.chat  # from category-ai-ru
 domain:greywallpass.com  # from category-travel-ru
 domain:kontur-inc.com  # from kontur
 domain:mcc250.pub.3gppnetwork.org  # from category-ru; Mobile IMS
-domain:mti.moscow  # manually requested by user
 domain:ngenix.net  # from category-ru; NGENIX is a Russian provider of acceleration and security services for public web resources
 domain:ognihome.com  # from category-ru; OGNI HOME resident portal
 domain:osnova.io
@@ -619,5 +618,4 @@ domain:wibes.com  # from wildberries
 domain:x5.team  # from x5
 domain:xn----7sbaba0dc6cdn7cxcj.com  # from mailru-group; аська-скачать.com
 domain:xn--90ab.com  # from wildberries; вб.com
-domain:xn--90aifd0azb.xn--p1acf  # from tbank-ru; тбизнес.рус
 domain:yourgood.app  # from category-ru; CRM for small business
