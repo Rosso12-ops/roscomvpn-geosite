@@ -41,7 +41,6 @@ domain:amd.com
 
 # Autodesk
 keyword:autodesk.com
-domain:cdn.web-platform.io
 domain:qualtrics.com
 
 # Basecamp
@@ -227,7 +226,6 @@ domain:nflximg.net
 domain:nflxsearch.net
 domain:nflxso.net
 domain:nflxvideo.net
-domain:onetrust.com
 keyword:netflixdnstest
 regexp:(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 regexp:(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
