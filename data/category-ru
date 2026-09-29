@@ -529,6 +529,16 @@ domain:tvoyodbo.online  # from mts-ru
 domain:vimu.tv  # from category-ru; Vimu Media Player
 domain:xlnk.ms  # from category-ru
 
+# Other Russian TLDs (from tld-ru)
+domain:moscow
+domain:tatar
+domain:xn--80adxhks   # .москва
+domain:xn--80asehdb   # .онлайн
+domain:xn--80aswg     # .сайт
+domain:xn--c1avg      # .орг
+domain:xn--d1acj3b    # .дети
+domain:xn--p1acf      # .рус
+
 # Покрытие по ГеоIP (навсякий случай оставлено)
 domain:sberbank.ru
 domain:raiffeisen.ru
